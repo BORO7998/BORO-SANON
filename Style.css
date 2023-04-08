@@ -1,0 +1,41 @@
+nav{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+
+}
+hr{
+    width: 50%;
+}
+.A,.B,.C{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black; 
+    display: inline-block;
+    padding: 10px 20px;
+}
+.A1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.aa1{
+    display: flex;
+    justify-content: center;  
+}
+.dis{
+    display: flex;
+    
+    z-index: 3;
+}
+.x{
+    position: relative;
+}
+.xx{
+    position: relative;
+    left: 12px;
+}
+.q1,.q2,.q3,.q4{
+
+}
